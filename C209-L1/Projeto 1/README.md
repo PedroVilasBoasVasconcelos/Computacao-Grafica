@@ -1,6 +1,6 @@
 # Trabalho Prático - Computação Gráfica e Multimídia
 
-**Disciplina:** C209-L1 – Computação Gráfica e Multimídia  
+**Disciplina:** C209 - L1 – Computação Gráfica e Multimídia  
 **Nome:** Pedro Vilas Boas Vasconcelos  
 **Matrícula:** 427 - Ges
 **Período:** Sétimo
