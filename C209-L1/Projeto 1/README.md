@@ -48,11 +48,11 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 **Organização das Imagens:**
 Cada imagem resultante de uma etapa está salva em sua respectiva pasta:
 
-- `questao_1/` - Imagem combinada
-- `questao_2/` - Imagem com cores alteradas
-- `questao_3/` - Imagem espelhada
-- `questao_4/` - Pinguim recortado
-- `questao_5/` - Análise do histograma
-- `questao_6/` - Conversão de cor aplicada
+- `questao 1/` - Imagem combinada
+- `questao 2/` - Imagem com cores alteradas
+- `questao 3/` - Imagem espelhada
+- `questao 4/` - Pinguim recortado
+- `questao 5/` - Análise do histograma
+- `questao 6/` - Conversão de cor aplicada
 
 As imagens são fundamentais para validar o processo realizado em cada etapa.
