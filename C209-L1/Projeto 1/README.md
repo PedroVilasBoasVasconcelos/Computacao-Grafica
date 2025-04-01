@@ -35,6 +35,26 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 
 ---
 
+## Estrutura do Repositório:
+
+## Estrutura do Repositório:
+
+- [Projeto 1]/
+  -img/
+  - questao 1/
+    - final_combined_image.jpg
+  - questao 2/
+    - final_combined_image_color_changed.jpg
+  - questao 3/
+    - final_combined_image_mirrored.jpg
+  - questao 4/
+    - pinguim_rosa_recortado.jpg
+  - questao 5/
+    - pinguim_rosa_segmentado.jpg
+  - questao 6/
+    - pinguim_rosa_roxo.jpg
+  - Projeto1_C209-L1.ipynb
+
 **Organização das Imagens:**
 Cada imagem resultante de uma etapa está salva em sua respectiva pasta:
 
