@@ -35,16 +35,6 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 
 ---
 
-## Entrega do Trabalho:
-
-- O trabalho é **individual**.
-- O prazo de entrega é de **2 semanas**.
-- O upload dos códigos e demais documentos relacionados à atividade deve ser feito assim que concluído.
-- A entrega pontual e completa é fundamental, pois esta atividade será pontuada e contabilizada para a **NP1 (Nota de Prova 1).**
-- A entrega deve ser feita por meio de um **notebook Jupyter**, demonstrando todos os passos e modificações realizadas.
-
----
-
 **Organização das Imagens:**
 Cada imagem resultante de uma etapa está salva em sua respectiva pasta:
 
