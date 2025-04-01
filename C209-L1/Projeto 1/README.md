@@ -37,8 +37,6 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 
 ## Estrutura do Repositório:
 
-## Estrutura do Repositório:
-
 - [Projeto 1]/
   -img/
     - imagens necessárias
