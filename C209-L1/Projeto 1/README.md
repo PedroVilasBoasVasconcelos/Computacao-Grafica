@@ -41,6 +41,7 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 
 - [Projeto 1]/
   -img/
+    - imagens necessárias
   - questao 1/
     - final_combined_image.jpg
   - questao 2/
