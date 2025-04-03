@@ -7,20 +7,11 @@
 
 ---
 
-## Instruções:
-
-- Utilize os slides e aulas como referência para resolver o exercício.
-- Objetivo: Aplicar os conceitos aprendidos em aula sobre computação gráfica na transformação de uma imagem inicial em uma imagem final, utilizando diversas técnicas e ferramentas disponíveis.
-- Em caso de dúvidas, entre em contato com o professor ou monitor(a).
-- A atividade é **individual**. Em casos de cópia, todas as partes envolvidas serão **zeradas**.
-
----
-
 ## Descrição do Projeto:
 
-O trabalho consiste em modificar uma imagem inicial utilizando técnicas de computação gráfica. As imagens de resposta estão salvas em suas respectivas pastas, organizadas conforme cada etapa do processo.
+O trabalho consiste em modificar uma imagem inicial utilizando técnicas de computação gráfica.
 
-As seguintes etapas devem ser seguidas **nesta ordem**:
+As seguintes etapas foram feitas **nesta ordem**:
 
 1. **Juntar todas as imagens em uma única**
 2. **Trocar as cores** (alterar a cor dos pinguins para cores diferentes)
@@ -29,9 +20,7 @@ As seguintes etapas devem ser seguidas **nesta ordem**:
 5. **Analisar o histograma** do pinguim recortado e escolher um valor de threshold (justificar a escolha)
 6. **Aplicar uma conversão** para que todos os píxeis abaixo do pinguim sejam pintados de roxo
 
-Cada etapa deve ser feita utilizando o resultado da etapa anterior como base.
-
-Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utilizadas para transformar a imagem inicial na imagem final, considerando os conceitos aprendidos em sala de aula.
+Cada etapa foi feita utilizando o resultado da etapa anterior como base.
 
 ---
 
@@ -40,28 +29,20 @@ Ademais, um plano detalhado deve ser elaborado, descrevendo as técnicas utiliza
 - [Projeto 1]/
   -img/
     - imagens necessárias
-  - questao 1/
-    - final_combined_image.jpg
-  - questao 2/
-    - final_combined_image_color_changed.jpg
-  - questao 3/
-    - final_combined_image_mirrored.jpg
-  - questao 4/
-    - pinguim_rosa_recortado.jpg
-  - questao 5/
-    - pinguim_rosa_segmentado.jpg
-  - questao 6/
-    - pinguim_rosa_roxo.jpg
+  - pinguins_juntos.png
+  - imagem_recolorida.png
+  - imagem_espelhada.png
+  - pinguim_segundo_quadrante.png
   - Projeto1_C209-L1.ipynb
 
 **Organização das Imagens:**
-Cada imagem resultante de uma etapa está salva em sua respectiva pasta:
+Cada imagem resultante de uma etapa está sendo mostrada ao final de seu treixo de codigo:
 
-- `questao 1/` - Imagem combinada
-- `questao 2/` - Imagem com cores alteradas
-- `questao 3/` - Imagem espelhada
-- `questao 4/` - Pinguim recortado
+- `questao 1/` - pinguins_juntos.png - Imagem combinada
+- `questao 2/` - imagem_recolorida.png - Imagem com cores alteradas
+- `questao 3/` - imagem_espelhada.png - Imagem espelhada
+- `questao 4/` - pinguim_segundo_quadrante.png - Pinguim recortado
 - `questao 5/` - Análise do histograma
-- `questao 6/` - Conversão de cor aplicada
+- `questao 6/` - pinguim_colorido.png - Conversão de cor aplicada
 
 As imagens são fundamentais para validar o processo realizado em cada etapa.
