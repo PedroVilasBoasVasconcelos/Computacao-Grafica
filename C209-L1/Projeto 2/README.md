@@ -5,6 +5,13 @@ Este projeto tem como objetivo aplicar técnicas de edição e manipulação de 
 
 ---
 
+## 🌐 🔗 Links dos Vídeos no YouTube
+
+- ▶️ **Vídeo Original (Sem Edição):** [Assista aqui](https://youtu.be/BXWVRWXf4ps)
+- 🎬 **Vídeo Final (Editado):** [Assista aqui](https://youtu.be/LbUjmNW6Ta4)
+
+---
+
 ## 📑 Descrição do Projeto
 
 O projeto é dividido em três etapas principais de transformação do vídeo original, aplicando diferentes técnicas de edição:
@@ -110,12 +117,12 @@ Ao final da execução, você terá três vídeos com os seguintes efeitos aplic
 
 ## 🧠 Tecnologias Utilizadas
 
-- Python 🐍
-- Biblioteca [MoviePy](https://zulko.github.io/moviepy/) 🎥
-- NumPy 🔢
+- Python
+- Biblioteca [MoviePy](https://zulko.github.io/moviepy/)
+- NumPy
 
 ---
 
 ## 💻 Feito por
 
-Pedro Vilas Boas Vasconcelos 💙
+Pedro Vilas Boas Vasconcelos
